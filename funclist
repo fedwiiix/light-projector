@@ -1,0 +1,8 @@
+_ADC: CODE, 1642 0 44
+___awmod: CODE, 1749 0 78
+_main: CODE, 1913 0 128
+___lmul: CODE, 1686 0 63
+__initialization: CODE, 2041 0 5
+_srand: CODE, 1632 0 10
+_rand: CODE, 1827 0 86
+Total: 414
